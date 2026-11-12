@@ -1,6 +1,6 @@
 {
     "name": "tekservix/smsgora",
-    "description": "Official PHP client for the SMS Gora SMS Gateway: send and receive SMS through your own Android phones, with delivery reports and signed webhooks.",
+    "description": "SMS Gora SMS Gateway: official PHP client by Tekservix. Send and receive SMS through your own Android phones, with delivery reports and signed webhooks.",
     "type": "library",
     "license": "MIT",
     "keywords": ["sms", "sms-gateway", "sms-api", "bulk-sms", "send-sms", "android-sms-gateway", "otp", "laravel", "textbee", "smsgora", "tekservix"],
