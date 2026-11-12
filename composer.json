@@ -7,8 +7,8 @@
     "homepage": "https://tekservix.com/smsgora/",
     "support": {
         "docs": "https://tekservix.com/smsgora/docs/",
-        "issues": "https://github.com/tekservixhq/smsgora-php/issues",
-        "source": "https://github.com/tekservixhq/smsgora-php",
+        "issues": "https://github.com/TekservixHQ/smsgora-php/issues",
+        "source": "https://github.com/TekservixHQ/smsgora-php",
         "email": "support@tekservix.com"
     },
     "authors": [{ "name": "Tekservix", "homepage": "https://tekservix.com" }],
